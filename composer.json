@@ -1,0 +1,7 @@
+{
+    "name": "xcgpseud/lizt",
+    "description": "List types for PHP. I am a fan of Franz Liszt so this name is semi-inspired by him too!",
+    "type": "library",
+    "license": "mit",
+    "require": {}
+}
